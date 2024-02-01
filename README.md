@@ -23,8 +23,8 @@ Formally, the goal is to compute a parameter vector x such that x = argmin(f(x))
 3) Cost function for QFT - trace(U_original_matrix.T * U_from_our_circuit)
 
 ## Acknowledgements:
-1. The original [IPG paper]([url](https://arxiv.org/abs/2309.09957))
-2. [Pennylane guide]([url](https://pennylane.ai/qml/demos/tutorial_state_preparation/))s on training quantum circuits using pytorch backend
-3. [Ada-hessian]([url](https://github.com/amirgholami/adahessian)https://github.com/amirgholami/adahessian) for inspiration on plots
+1. The original [IPG paper](https://arxiv.org/abs/2309.09957)
+2. [Pennylane guide](https://pennylane.ai/qml/demos/tutorial_state_preparation/) on training quantum circuits using pytorch backend
+3. [Ada-hessian](https://github.com/amirgholami/adahessian) for inspiration on plots
 
 
